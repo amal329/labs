@@ -1,3 +1,4 @@
+//Create a hypercube graph for any given degree
 #include<bits/stdc++.h>
 using namespace std;
 
